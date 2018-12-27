@@ -1,4 +1,4 @@
-# MTProto Proxy CentOS 7 Auto Installer
+# MTProtoProxy Auto Installer "" CentOS 7 ""
 A very small script to install MTProtoProxy On CentOS 7
 ### Why this installer?
 * Generate random secret
